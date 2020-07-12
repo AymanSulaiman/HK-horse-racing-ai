@@ -1,1 +1,1 @@
-# HK-prediction-ai
+# HK-horse-racing-ai
